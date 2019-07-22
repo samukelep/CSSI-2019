@@ -1,35 +1,34 @@
-
 .blog-pics{
-  3  heigth: auto;
-  4  width: 250px;
-  5 }
-  6 body{
-  7  background-color: #ff0087;
-  8  font-family: Helvetica, sans-serif;
-  9  width: 75%;
- 10  margin: auto;
- 11 }
- 12 #About-me-title
- 13 #Projects-title {
- 14 color: darkgrey;
- 15 }
- 16 h1 {
- 17 background-color: lightgrey;
- 18 border: 1px solid lightgrey;
- 19 color: white;
- 20 font-size: 24px;
- 21 font-weight: 300;
- 22 margin-bottom: 10px;
- 23 padding: 2% 5%;
- 24 }
- 25 h2{
- 26  font-weight: 300;
- 27 }
- 28 
- 29 section{
- 30  background-color: white;
- 31  border: 1px solid lightgrey;
- 32  line-height: 150%;
- 33  margin-bottom: 10px;
- 34  padding: 2% 5%
- 35 }
+    heigth: auto;
+    width: 250px;
+   }
+   body{
+    background-color: #ff0087;
+    font-family: Helvetica, sans-serif;
+    width: 75%;
+   margin: auto;
+  }
+  #About-me-title
+ #Projects-title {
+  color: darkgrey;
+  }
+  h1 {
+ 1 background-color: lightgrey;
+  border: 1px solid lightgrey;
+  color: white;
+font-size: 24px;
+ font-weight: 300;
+ margin-bottom: 10px;
+ padding: 2% 5%;
+  }
+ h2{
+   font-weight: 300;
+  }
+  
+  section{
+  background-color: white;
+   border: 1px solid lightgrey;
+   line-height: 150%;
+  margin-bottom: 10px;
+  padding: 2% 5%
+ }
